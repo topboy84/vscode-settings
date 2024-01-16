@@ -8,7 +8,7 @@
     "debug.inlineValues": "on",
     "debug.autoExpandLazyVariables": true,
 
-    "editor.minimap.enabled": false,
+    "editor.minimap.enabled": true,
     "workbench.colorTheme": "Monokai",
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.cursorBlinking": true,
@@ -17,7 +17,7 @@
     "files.autoSave": "afterDelay",
     "explorer.autoReveal": false,
     "explorer.compactFolders": false,
-    "breadcrumbs.enabled": false,
+    "breadcrumbs.enabled": true,
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "editor.fontSize": 16,
 }
