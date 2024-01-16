@@ -18,5 +18,6 @@
     "explorer.autoReveal": false,
     "explorer.compactFolders": false,
     "breadcrumbs.enabled": false,
-    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "editor.fontSize": 16,
 }
